@@ -25,9 +25,9 @@ Plugin list:
 
 tabs:
  
-set tabstop=4
-set shiftwidth=4
-set expandtab
+set tabstop=4 <br>
+set shiftwidth=4 <br>
+set expandtab <br>
 
    Version   | Version num
 ------------ | -------------
