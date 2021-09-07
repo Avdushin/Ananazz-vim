@@ -5,7 +5,8 @@ Preview:
 
 ![изображение](https://cdn.discordapp.com/attachments/650681889308278785/884863396867104788/unknown.png)
 
-
+### Installization
+`sudo cp .vimrc ~/`
 
 Plug & bundle
 
@@ -31,3 +32,4 @@ set expandtab
    Version   | Version num
 ------------ | -------------
   Alpha      | 0.1.0
+  
