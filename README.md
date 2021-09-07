@@ -1,20 +1,33 @@
-Ananazz-vim it's my vim configuration
+### Ananazz-vim it's my vim configuration
 
-Plug
-Plugin
-Vundle
-bundle
+
+Preview:
+
+![изображение](https://cdn.discordapp.com/attachments/650681889308278785/884863396867104788/unknown.png)
+
+
+
+Plug & bundle
+
 
 Plugin list:
 
-nerdtree
-youcompleteme
-auto-pairs
-vim-easymotion
-AutoComplPop
+`Nerdtree`
+
+`Youcompleteme`
+
+`Auto-pairs`
+
+`Vim-easymotion`
+
+`AutoComplPop`
 
 tabs:
  
 set tabstop=4
 set shiftwidth=4
 set expandtab
+
+   Version   | Version num
+------------ | -------------
+  Alpha      | 0.1.0
